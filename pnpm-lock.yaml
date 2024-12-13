@@ -24,6 +24,8 @@ importers:
         specifier: ^4.1.0
         version: 4.1.0(prettier@3.4.2)(typescript@5.7.2)
 
+  packages/types: {}
+
 packages:
 
   '@tsconfig/node22@22.0.0':
