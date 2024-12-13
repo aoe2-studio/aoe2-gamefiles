@@ -1,0 +1,13 @@
+{
+  "name": "dat-file",
+  "private": true,
+  "description": "Types, utilities, and documentation for the Age of Empires 2 .dat file type",
+  "keywords": [
+    "genie",
+    "genieutils",
+    "aoe2",
+    "dat"
+  ],
+  "author": "with-heart <with.heart+git@pm.me>",
+  "license": "LGPL-3.0-or-later"
+}
