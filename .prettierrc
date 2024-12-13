@@ -1,0 +1,8 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "experimentalTernaries": true,
+  "plugins": ["prettier-plugin-organize-imports", "prettier-plugin-jsdoc"],
+  "tsdoc": true
+}
