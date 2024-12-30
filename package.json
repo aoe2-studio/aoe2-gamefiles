@@ -1,15 +1,15 @@
 {
-  "name": "dat-file",
+  "name": "aoe2-gamefiles",
   "private": true,
-  "description": "Types, utilities, and documentation for the Age of Empires 2 .dat file type",
+  "description": "Types, tools, and documentation for Age of Empires 2 game files",
   "keywords": [
+    "aoe2",
     "genie",
     "genieutils",
-    "aoe2",
     "dat"
   ],
   "author": "with-heart <with.heart+git@pm.me>",
-  "license": "LGPL-3.0-or-later",
+  "license": "MIT",
   "dependencies": {
     "@tsconfig/node22": "^22.0.0",
     "@tsconfig/strictest": "^2.0.5",

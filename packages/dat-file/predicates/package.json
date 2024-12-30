@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Predicate functions for analyzing Age of Empires 2 .dat file structures",
   "author": "with-heart <with.heart+git@pm.me>",
+  "license": "MIT",
   "devDependencies": {
     "@aoe2-studio/dat-file-types": "workspace:*"
   }

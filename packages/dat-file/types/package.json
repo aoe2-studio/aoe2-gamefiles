@@ -2,5 +2,6 @@
   "name": "@aoe2-studio/dat-file-types",
   "version": "0.0.0",
   "description": "TypeScript types for Age of Empires 2 .dat file structures",
-  "author": "with-heart <with.heart+git@pm.me>"
+  "author": "with-heart <with.heart+git@pm.me>",
+  "license": "MIT"
 }

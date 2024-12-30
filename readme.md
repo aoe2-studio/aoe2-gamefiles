@@ -1,7 +1,7 @@
-# `dat-file`
+# `aoe2-gamefiles`
 
-> Types, utilities, and documentation for the Age of Empires 2 .dat file type.
+> Types, tools, and documentation for Age of Empires 2 game files.
 
-## File Type Specification
+## `.dat`
 
 See [`spec.md`](./spec.md) for a detailed specification of the `.dat` file type.
